@@ -27,3 +27,5 @@ void CustomLineEdit::focusOutEvent(QFocusEvent *event)
     QLineEdit::focusOutEvent(event);
     //qDebug() << "out";
 }
+
+//This is a test checking for gitkraken connection.!
