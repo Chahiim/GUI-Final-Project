@@ -267,7 +267,7 @@ void rectangle_calculator::on_actionHide_Toolbar_triggered()
 
 void rectangle_calculator::on_actionAbout_triggered()
 {
-    QMessageBox::about(this, tr("About"), tr("This Group A's GUI Final Project. Finding the area, perimeter, and length of a rectangle."));
+    QMessageBox::about(this, tr("About"), tr("This Group 3's GUI Final Project. Finding the area, perimeter, and length of a rectangle."));
 }
 
 
