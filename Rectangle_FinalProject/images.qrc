@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Final project Images/copy.png</file>
+        <file>Final project Images/cutting.png</file>
+        <file>Final project Images/diskette (1).png</file>
+        <file>Final project Images/exit.png</file>
+        <file>Final project Images/eye.png</file>
+        <file>Final project Images/file.png</file>
+        <file>Final project Images/hidden.png</file>
+        <file>Final project Images/information.png</file>
+        <file>Final project Images/new-folder.png</file>
+        <file>Final project Images/open-folder.png</file>
+        <file>Final project Images/paste (1).png</file>
+        <file>Final project Images/printer.png</file>
+        <file>Final project Images/redo.png</file>
+        <file>Final project Images/undo.png</file>
+    </qresource>
+</RCC>
